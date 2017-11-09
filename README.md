@@ -12,12 +12,12 @@ These repositories contain work I did as a student at Vienna University of Techn
 
 If you are looking for more material, feel free to hit me up :wink:
 
-## Seminars and Theses
+### Seminars and Theses
 
  * ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems" (bachelor's thesis)](https://github.com/lorenzleutgeb/3wl)
  * ["Abduction and Logic Programming" (seminar paper)](https://github.com/lorenzleutgeb/abd)
 
-## Courses
+### Courses
 
 | Repository    | Title         | Semester |
 | ------------- | ------------- | -------- |
