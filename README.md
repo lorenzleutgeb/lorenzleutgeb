@@ -4,7 +4,7 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 
 ## [European Master's in Computational Logic](https://www.emcl-study.eu/)
 
- * [Seminar paper about Axiom Pinpointing in EL+](https://github.com/lorenzleutgeb/elp)
+ * [Seminar paper about Axiom Pinpointing in EL+](https://github.com/lorenzleutgeb/elp) [[report](https://lorenz.leutgeb.xyz/paper/elp.pdf), [slides](https://lorenz.leutgeb.xyz/paper/elp-beam.pdf) as PDFs]
 
 ## [Vienna University of Technology](https://www.tuwien.ac.at/en/)
 
@@ -14,8 +14,8 @@ If you are looking for more material, feel free to hit me up :wink:
 
 ### Seminars and Theses
 
- * ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems" (bachelor's thesis)](https://github.com/lorenzleutgeb/3wl)
- * ["Abduction and Logic Programming" (seminar paper)](https://github.com/lorenzleutgeb/abd)
+ * ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems" (bachelor's thesis)](https://github.com/lorenzleutgeb/3wl) [[as PDF](https://lorenz.leutgeb.xyz/paper/3wl.pdf)]
+ * ["Abduction and Logic Programming" (seminar paper)](https://github.com/lorenzleutgeb/abd) [[report](https://lorenz.leutgeb.xyz/paper/abd.pdf), [slides](https://lorenz.leutgeb.xyz/paper/abd-beam.pdf) as PDFs]
 
 ### Courses
 
