@@ -6,7 +6,7 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 
  * Seminar: [Axiom Pinpointing in EL+](https://github.com/lorenzleutgeb/elp) [[report](https://lorenz.leutgeb.xyz/paper/elp.pdf), [slides](https://lorenz.leutgeb.xyz/paper/elp-beam.pdf) as PDFs]
  * Seminar: [Complex Predicates vs. Complex Objects: A Case Study on Answer Set Programming for Implementing Artificial Agents](https://github.com/lorenzleutgeb/ab) together with [@uomoinverde](https://github.com/uomoinverde) and [@cosimodpersia](https://github.com/cosimodpersia)
- * Course: [Integrated Logic Systems](https://github.com/lorenzleutgeb/ils)
+ * Course: [Integrated Logic Systems](https://github.com/lorenzleutgeb/ils) together with Aneta Koleva and [@uomoinverde](https://github.com/uomoinverde)
  * Course: [Foundations of Databases](https://github.com/lorenzleutgeb/fdb)
 
 ## [Vienna University of Technology](https://www.tuwien.ac.at/en/)
