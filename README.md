@@ -22,7 +22,7 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 
 | Repository    | Title         | Semester | Collaborators | 
 | ------------- | ------------- | -------- | ------------- |
-| [ils](https://github.com/lorenzleutgeb/ils) | Integrated Logic Systems | 2018S | Aneta Koleva and [Filippo De Bortoli](https://github.com/uomoinverde)
+| [ils](https://github.com/lorenzleutgeb/ils) | Integrated Logic Systems | 2018S | [Filippo De Bortoli](https://github.com/uomoinverde) and Aneta Koleva
 | [fdb](https://github.com/lorenzleutgeb/fdb) | Foundations of Databases | 2018S | [Anastasia Pustozerova](https://github.com/apustozerova)
 
 ## Bachelor's in Software and Information Engineering at [TU Wien](https://www.tuwien.ac.at/en/)
