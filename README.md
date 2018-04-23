@@ -16,14 +16,14 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 ### Seminars and Theses
 
  * Seminar: [Axiom Pinpointing in EL+](https://github.com/lorenzleutgeb/elp) [[report](https://lorenz.leutgeb.xyz/paper/elp.pdf), [slides](https://lorenz.leutgeb.xyz/paper/elp-beam.pdf) as PDFs]
- * Seminar: [Complex Predicates vs. Complex Objects: A Case Study on Answer Set Programming for Implementing Artificial Agents](https://github.com/lorenzleutgeb/ab) together with [@uomoinverde](https://github.com/uomoinverde) and [@cosimodpersia](https://github.com/cosimodpersia)
+ * Seminar: [Complex Predicates vs. Complex Objects: A Case Study on Answer Set Programming for Implementing Artificial Agents](https://github.com/lorenzleutgeb/ab) together with [Filippo De Bortoli](https://github.com/uomoinverde) and [Cosimo Persia](https://github.com/cosimodpersia)
 
 ### Courses
 
 | Repository    | Title         | Semester | Collaborators | 
 | ------------- | ------------- | -------- | ------------- |
-| [ils](https://github.com/lorenzleutgeb/ils) | Integrated Logic Systems | 2018S | Aneta Koleva and [@uomoinverde](https://github.com/uomoinverde)
-| [fdb](https://github.com/lorenzleutgeb/fdb) | Foundations of Databases | 2018S | Anastasia Pustozerova 
+| [ils](https://github.com/lorenzleutgeb/ils) | Integrated Logic Systems | 2018S | Aneta Koleva and [Filippo De Bortoli](https://github.com/uomoinverde)
+| [fdb](https://github.com/lorenzleutgeb/fdb) | Foundations of Databases | 2018S | [Anastasia Pustozerova](https://github.com/apustozerova)
 
 ## Bachelor's in Software and Information Engineering at [TU Wien](https://www.tuwien.ac.at/en/)
 
@@ -42,7 +42,7 @@ If you are looking for more material, feel free to hit me up :wink:
 | ------------------------------------------------- | ------------- | -------- | ------------- |
 | [dps](https://github.com/lorenzleutgeb/dps)       | Declarative Problem Solving | 2017S
 | [ewbs](https://github.com/lorenzleutgeb/ewbs)     | Introduction to Knowledge Based Systems | 2016W
-| [iixd](https://github.com/lorenzleutgeb/iixd)     | Interface and Interaction Design | 2016W | Christoph Gwihs and Christoph Holter
+| [iixd](https://github.com/lorenzleutgeb/iixd)     | Interface and Interaction Design | 2016W | Christoph Gwihs and [Christoph Holter](https://github.com/christoph-holter)
 | [ds](https://github.com/lorenzleutgeb/ds)         | Distributed Systems | 2016S | Christoph Gwihs and Nikolaus Lässig
 | [evc](https://github.com/lorenzleutgeb/evc)       | Introduction to Visual Computing | 2016S
 | [os](https://github.com/lorenzleutgeb/os)         | Operating Systems | 2015W
@@ -60,6 +60,6 @@ Stuff I made in high school.
 
 | Repository    | Title         | Year | Collaborators |
 | ------------- | ------------- | ---- | ------------- |
-| [pcp-vns](https://github.com/lorenzleutgeb/pcp-vns)  | Implementation of a Variable Neighborhood Search for the Partition Graph Coloring Problem | 2013 | [@WanzenBug](https://github.com/WanzenBug)
+| [pcp-vns](https://github.com/lorenzleutgeb/pcp-vns)  | Implementation of a Variable Neighborhood Search for the Partition Graph Coloring Problem | 2013 | [Moritz Wanzenböck](https://github.com/WanzenBug)
 | [ecdh-aes-chat](https://github.com/lorenzleutgeb/ecdh-aes-chat)  | A small chat program that uses a custom implementation of AES and ECDH key exchange | 2012? |
-| [absorption](https://github.com/lorenzleutgeb/absorption)  | Solution to a challenge on the absorption effect in floats | 2011? | [@WanzenBug](https://github.com/WanzenBug)
+| [absorption](https://github.com/lorenzleutgeb/absorption)  | Solution to a challenge on the absorption effect in floats | 2011? | [Moritz Wanzenböck](https://github.com/WanzenBug)
