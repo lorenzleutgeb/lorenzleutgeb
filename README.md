@@ -2,6 +2,15 @@
 
 This is a meta-repository that just helps you (and me) navigate all my repositories on GitHub.
 
+## Puzzling
+
+ | Repository                                      | Description                                             | Year |
+ | ----------------------------------------------- | ------------------------------------------------------- | ---- | 
+ | [geb](https://github.com/lorenzleutgeb/geb)     | Code that connects to [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del%2C_Escher%2C_Bach) | ?    |
+ | [euler](https://github.com/lorenzleutgeb/euler) | Attempts at [Project Euler](https://projecteuler.net/)  | ?    |
+ | [aoc](https://github.com/lorenzleutgeb/aoc)     | Attempts at [Advent of Code](https://adventofcode.com/) | 2017 |
+ | [cqf](https://github.com/lorenzleutgeb/cqf)     | [Conjunctive Query](https://en.wikipedia.org/wiki/Conjunctive_Query) Fun | 2018 |
+
 ## [European Master's in Computational Logic](https://www.emcl-study.eu/)
 
 ### Locations
@@ -22,9 +31,11 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 
 | Repository    | Title         | Semester | Collaborators | 
 | ------------- | ------------- | -------- | ------------- |
+| [cp](https://github.com/lorenzleutgeb/cp) | Constraint Programming | 2017W | |
 | [ils](https://github.com/lorenzleutgeb/ils) | Integrated Logic Systems | 2018S | [Filippo De Bortoli](https://github.com/uomoinverde) and Aneta Koleva
 | [fdb](https://github.com/lorenzleutgeb/fdb) | Foundations of Databases | 2018S | [Anastasia Pustozerova](https://github.com/apustozerova)
 | [al](https://github.com/lorenzleutgeb/al) | Advanced Logic | 2018S | [Cosimo Persia](https://github.com/cosimodpersia)
+| ? | Knowledge Representation and Ontologies | 2018S | [Johannes Altmanninger](https://github.com/krobelus)
 
 ## Bachelor's in Software and Information Engineering at [TU Wien](https://www.tuwien.ac.at/en/)
 
