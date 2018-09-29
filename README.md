@@ -15,12 +15,12 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 
 ### Locations
 
-| Start    | End         | Institute | Location 
-| ------------- | ------------- | -------- | ------------- |
-| 2017-09 | 2018-02 | TU Dresden | 🇩🇪 Dresden
-| 2018-03 | 2018-07 | Free University of Bozen-Bolzano | 🇮🇹 Bolzano
-| 2018-08 | 2018-09 | Data61, CSIRO | 🇦🇺 Canberra
-| 2018-10 | 2019-03 | TU Wien | 🇦🇹 Vienna
+| Start   | End     | Institute/Orgnaisation | Associated University | Location 
+| ------- | ------- | ---------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 2017-09 | 2018-02 | International Center for Computational Logic (ICCL)                          | TU Dresden                       | 🇪🇺 🇩🇪 Dresden
+| 2018-03 | 2018-07 | Research Centre for Knowledge and Data (KRDB)                                | Free University of Bozen-Bolzano | 🇪🇺 🇮🇹 Bolzano
+| 2018-08 | 2018-09 | Data61, Commonwealth Scientific and Industrial Research Organization (CSIRO) | Australian National University   |   🇦🇺 Canberra
+| 2018-10 | 2019-03 | Vienna for Logic and Algorithms (VCLA)                                       | TU Wien                          | 🇪🇺 🇦🇹 Vienna
 
 ### Seminars and Theses
 
