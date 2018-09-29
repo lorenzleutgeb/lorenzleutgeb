@@ -15,7 +15,7 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 
 ### Locations
 
-| Start   | End     | Institute/Orgnaisation | Associated University | Location 
+| Start   | End     | Institute/Organisation | Associated University | Location 
 | ------- | ------- | ---------------------------------------------------------------------------- | -------------------------------- | ---------- |
 | 2017-09 | 2018-02 | International Center for Computational Logic (ICCL)                          | TU Dresden                       | 🇪🇺 🇩🇪 Dresden
 | 2018-03 | 2018-07 | Research Centre for Knowledge and Data (KRDB)                                | Free University of Bozen-Bolzano | 🇪🇺 🇮🇹 Bolzano
