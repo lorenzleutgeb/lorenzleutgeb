@@ -29,10 +29,10 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 
 ### Courses
 
-| Repository    | Title         | Semester | Collaborators | 
+| Repositories  | Title         | Semester | Collaborators | 
 | ------------- | ------------- | -------- | ------------- |
 | [cp](https://github.com/lorenzleutgeb/cp) | Constraint Programming | 2017W | |
-| [ils](https://github.com/lorenzleutgeb/ils) | Integrated Logic Systems | 2018S | [Filippo De Bortoli](https://github.com/uomoinverde) and Aneta Koleva
+| [ils](https://github.com/lorenzleutgeb/ils), [prisma](https://github.com/lorenzleutgeb/prisma), [hakuna-matata](https://github.com/lorenzleutgeb/hakuna-matata) | Integrated Logic Systems | 2018S | [Filippo De Bortoli](https://github.com/uomoinverde) and Aneta Koleva
 | [fdb](https://github.com/lorenzleutgeb/fdb) | Foundations of Databases | 2018S | [Anastasia Pustozerova](https://github.com/apustozerova)
 | [al](https://github.com/lorenzleutgeb/al) | Advanced Logic | 2018S | [Cosimo Persia](https://github.com/cosimodpersia)
 | ? | Knowledge Representation and Ontologies | 2018S | [Johannes Altmanninger](https://github.com/krobelus)
