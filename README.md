@@ -1,6 +1,4 @@
-# README.md
-
-This is a meta-repository that just helps you (and me) navigate all my repositories on GitHub.
+This `README.md` helps you (and me) navigate all my repositories on GitHub.
 
 ## Puzzling
 
@@ -16,14 +14,15 @@ This is a meta-repository that just helps you (and me) navigate all my repositor
 ### Locations
 
 | Start   | End     | Institute/Organisation | Associated University | Location 
-| ------- | ------- | ---------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| ------- | ------- | ---------------------------------------------------------------------------- | -------------------------------- | ------------ |
 | 2017-09 | 2018-02 | International Center for Computational Logic (ICCL)                          | TU Dresden                       | 🇪🇺 🇩🇪 Dresden
 | 2018-03 | 2018-07 | Research Centre for Knowledge and Data (KRDB)                                | Free University of Bozen-Bolzano | 🇪🇺 🇮🇹 Bolzano
-| 2018-08 | 2018-09 | Data61, Commonwealth Scientific and Industrial Research Organization (CSIRO) | Australian National University   |   🇦🇺 Canberra
+| 2018-08 | 2018-09 | Data61, Commonwealth Scientific and Industrial Research Organization (CSIRO) | Australian National University   | 🇦🇺 Canberra
 | 2018-10 | 2019-03 | Vienna for Logic and Algorithms (VCLA)                                       | TU Wien                          | 🇪🇺 🇦🇹 Vienna
 
 ### Seminars and Theses
 
+ * Master's Thesis: [Automated Analysis of Logarithmic Amortized Complexity](https://github.com/lorenzleutgeb/lac-thesis) (work in progress) supervised by [Florian Zuleger](https://github.com/zulegerf)
  * Seminar: [Axiom Pinpointing in EL+](https://github.com/lorenzleutgeb/elp) [[report](https://lorenz.leutgeb.xyz/paper/elp.pdf), [slides](https://lorenz.leutgeb.xyz/paper/elp-beam.pdf) as PDFs]
  * Seminar: [Complex Predicates vs. Complex Objects: A Case Study on Answer Set Programming for Implementing Artificial Agents](https://github.com/lorenzleutgeb/ab) together with [Filippo De Bortoli](https://github.com/uomoinverde) and [Cosimo Persia](https://github.com/cosimodpersia)
 
@@ -45,7 +44,7 @@ If you are looking for more material, feel free to hit me up :wink:
 
 ### Seminars and Theses
 
- * Bachelor's Thesis: ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems"](https://github.com/lorenzleutgeb/3wl) [[as PDF](https://lorenz.leutgeb.xyz/paper/3wl.pdf)]
+ * Bachelor's Thesis: ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems"](https://github.com/lorenzleutgeb/3wl) [[as PDF](https://lorenz.leutgeb.xyz/paper/3wl.pdf)] supervised by [Antonius Weinzierl](https://github.com/AntoniusW)
  * Seminar: ["Abduction and Logic Programming"](https://github.com/lorenzleutgeb/abd) [[report](https://lorenz.leutgeb.xyz/paper/abd.pdf), [slides](https://lorenz.leutgeb.xyz/paper/abd-beam.pdf) as PDFs]
 
 ### Courses
