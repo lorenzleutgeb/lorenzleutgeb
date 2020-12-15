@@ -86,7 +86,7 @@ Decisions behind naming repositories might appear obscure to you, as they aim to
 [Kurier](https://github.com/lorenzleutgeb/kurier) | Customer feedback via Messenger | [Kurier](https://kurier.at/)
 [Hangman](https://github.com/lorenzleutgeb/hangman) | Hangman chatbot | [Stockwerk](https://www.stockwerk.co.at/)
 
-## High School in Information Technology and Electronics at [HTL Ottakring](https://www.htl-ottakring.at/)
+## High School in Information Technology and Electronics at [HTL Wien West](https://www.htlwienwest.at/)
 
 Stuff I made in high school.
 
