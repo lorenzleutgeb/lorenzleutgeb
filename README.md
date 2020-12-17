@@ -2,6 +2,8 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
 
 ## Puzzling
 
+[![Codewars Badge](https://www.codewars.com/users/lorenz.leutgeb/badges/large)](https://www.codewars.com/users/lorenz.leutgeb/)
+
  | Repository                                      | Description                                             | Year | Language |
  | ----------------------------------------------- | ------------------------------------------------------- | ---- | -------- |
  | [geb](https://github.com/lorenzleutgeb/geb)     | Code that connects to [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del%2C_Escher%2C_Bach) | ?    | Python |
