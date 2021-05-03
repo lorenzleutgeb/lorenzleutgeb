@@ -24,7 +24,7 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
 
 ### Thesis
 
-[Automated Analysis of Logarithmic Amortized Complexity](https://github.com/lorenzleutgeb/lac-thesis) (working title) supervised by [Florian Zuleger](https://github.com/zulegerf)
+*ATLAS: Automated Amortised Complexity Analysis of Self-Adjusting Data Structures* supervised by [Florian Zuleger](https://github.com/zulegerf)
 
 | Repository | Content | Collaborators | Language |
 |------------|---------|---------------|----------|
