@@ -20,11 +20,11 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
 | 2017-09 | 2018-02 | International Center for Computational Logic (ICCL)                          | TU Dresden                       | 🇪🇺 🇩🇪 Dresden
 | 2018-03 | 2018-07 | Research Centre for Knowledge and Data (KRDB)                                | Free University of Bozen-Bolzano | 🇪🇺 🇮🇹 Bolzano
 | 2018-08 | 2018-09 | Data61, Commonwealth Scientific and Industrial Research Organization (CSIRO) | Australian National University   | 🇦🇺 Canberra
-| 2018-10 | 2019-03 | Vienna for Logic and Algorithms (VCLA)                                       | TU Wien                          | 🇪🇺 🇦🇹 Vienna
+| 2018-10 | 2021-06 | Vienna for Logic and Algorithms (VCLA)                                       | TU Wien                          | 🇪🇺 🇦🇹 Vienna
 
 ### Thesis
 
-*ATLAS: Automated Amortised Complexity Analysis of Self-Adjusting Data Structures* supervised by [Florian Zuleger](https://github.com/zulegerf)
+*ATLAS: Automated Amortised Complexity Analysis of Self-Adjusting Data Structures* supervised by [Florian Zuleger](https://github.com/zulegerf), see also [`doi:10.1007/978-3-030-81688-9_5`](https://doi.org/10.1007/978-3-030-81688-9_5)
 
 | Repository | Content | Collaborators | Language |
 |------------|---------|---------------|----------|
@@ -57,7 +57,7 @@ If you are looking for more material, feel free to hit me up :wink:
 
 ### Seminars and Theses
 
- * Bachelor's Thesis: ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems"](https://github.com/lorenzleutgeb/3wl) [[as PDF](https://lorenz.leutgeb.xyz/paper/3wl.pdf)] supervised by [Antonius Weinzierl](https://github.com/AntoniusW)
+ * Bachelor's Thesis: ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems"](https://github.com/lorenzleutgeb/3wl) [[as PDF](https://lorenz.leutgeb.xyz/paper/3wl.pdf)] supervised by [Antonius Weinzierl](https://github.com/AntoniusW), see also [`doi:10.1007/978-3-030-00801-7_9`](https://doi.org/10.1007/978-3-030-00801-7_9)
  * Seminar: ["Abduction and Logic Programming"](https://github.com/lorenzleutgeb/abd) [[report](https://lorenz.leutgeb.xyz/paper/abd.pdf), [slides](https://lorenz.leutgeb.xyz/paper/abd-beam.pdf) as PDFs]
 
 ### Courses
