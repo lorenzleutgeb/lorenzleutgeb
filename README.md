@@ -11,9 +11,9 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
  | [aoc](https://github.com/lorenzleutgeb/aoc)     | Attempts at [Advent of Code](https://adventofcode.com/) | 2017, 2018, 2019, 2020 | Haskell, ASP, Python |
  | [cqf](https://github.com/lorenzleutgeb/cqf)     | [Conjunctive Query](https://en.wikipedia.org/wiki/Conjunctive_Query) Fun | 2018 | PostgreSQL |
 
-## [European Master's in Computational Logic](https://www.emcl-study.eu/)
+## [European Master's Program in Computational Logic](https://www.emcl-study.eu/)
 
-### Locations
+<details><summary>Locations</summary>
 
 | Start   | End     | Institute/Organisation | Associated University | Location 
 | ------- | ------- | ---------------------------------------------------------------------------- | -------------------------------- | ------------ |
@@ -21,6 +21,7 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
 | 2018-03 | 2018-07 | Research Centre for Knowledge and Data (KRDB)                                | Free University of Bozen-Bolzano | 🇪🇺 🇮🇹 Bolzano
 | 2018-08 | 2018-09 | Data61, Commonwealth Scientific and Industrial Research Organization (CSIRO) | Australian National University   | 🇦🇺 Canberra
 | 2018-10 | 2021-06 | Vienna for Logic and Algorithms (VCLA)                                       | TU Wien                          | 🇪🇺 🇦🇹 Vienna
+</details>
 
 ### Thesis
 
