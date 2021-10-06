@@ -38,14 +38,14 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
 ### Seminars
 
  * Seminar: [Axiom Pinpointing in EL+](https://github.com/lorenzleutgeb/elp) [[report](https://lorenz.leutgeb.xyz/paper/elp.pdf), [slides](https://lorenz.leutgeb.xyz/paper/elp-beam.pdf) as PDFs]
- * Seminar: [Complex Predicates vs. Complex Objects: A Case Study on Answer Set Programming for Implementing Artificial Agents](https://github.com/lorenzleutgeb/ab) together with [Filippo De Bortoli](https://github.com/uomoinverde) and [Cosimo Persia](https://github.com/cosimodpersia)
+ * Seminar: [Complex Predicates vs. Complex Objects: A Case Study on Answer Set Programming for Implementing Artificial Agents](https://github.com/lorenzleutgeb/ab) together with [Filippo De Bortoli](https://github.com/filippodebortoli) and [Cosimo Persia](https://github.com/cosimodpersia)
 
 ### Courses
 
 | Repositories  | Title         | Semester | Collaborators | Language |
 | ------------- | ------------- | -------- | ------------- |----------|
 | [cp](https://github.com/lorenzleutgeb/cp) | Constraint Programming | 2017W | | MiniZinc |
-| [ils](https://github.com/lorenzleutgeb/ils), [prisma](https://github.com/lorenzleutgeb/prisma), [hakuna-matata](https://github.com/lorenzleutgeb/hakuna-matata) | Integrated Logic Systems | 2018S | [Filippo De Bortoli](https://github.com/uomoinverde) and Aneta Koleva | SMT, ASP, Python
+| [ils](https://github.com/lorenzleutgeb/ils), [prisma](https://github.com/lorenzleutgeb/prisma), [hakuna-matata](https://github.com/lorenzleutgeb/hakuna-matata) | Integrated Logic Systems | 2018S | [Filippo De Bortoli](https://github.com/filippodebortoli) and Aneta Koleva | SMT, ASP, Python
 | [fdb](https://github.com/lorenzleutgeb/fdb) | Foundations of Databases | 2018S | [Anastasia Pustozerova](https://github.com/apustozerova) | LaTeX
 | [al](https://github.com/lorenzleutgeb/al) | Advanced Logic | 2018S | [Cosimo Persia](https://github.com/cosimodpersia) | SMV
 | ? | Knowledge Representation and Ontologies | 2018S | [Johannes Altmanninger](https://github.com/krobelus)
