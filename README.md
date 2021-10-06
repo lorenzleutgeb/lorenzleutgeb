@@ -29,9 +29,9 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
 
 | Repository | Content | Collaborators | Language |
 |------------|---------|---------------|----------|
-| [atlas](https://github.com/lorenzleutgeb/atlas) | Implementation of Analysis of Logarithmic Amortized Complexity as Type Inference | | Java |
+| [atlas](https://github.com/lorenzleutgeb/atlas) | Implementation | | Java |
 | [atlas-thesis](https://github.com/lorenzleutgeb/atlas-thesis) | Thesis | | LaTeX |
-| [atlas-paper](https://github.com/lorenzleutgeb/atlas-paper) | Papers on the topic (pending for publication) | Georg Moser, David Obwaller, Florian Zuleger | LaTeX |
+| [atlas-paper](https://github.com/lorenzleutgeb/atlas-paper) | Papers on the topic | Georg Moser, David Obwaller, Florian Zuleger | LaTeX |
 | [atlas-examples](https://github.com/lorenzleutgeb/atlas-examples) | Example Code for Analysis and Experimentation | David Obwaller | custom |
 | [atlas-hs](https://github.com/lorenzleutgeb/atlas-hs) | Some Haskell code for embedding examples | | Haskell |
 
