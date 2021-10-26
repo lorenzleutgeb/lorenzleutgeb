@@ -25,7 +25,7 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
 
 ### Thesis
 
-*ATLAS: Automated Amortised Complexity Analysis of Self-Adjusting Data Structures* supervised by [Florian Zuleger](https://github.com/zulegerf), see also [`doi:10.1007/978-3-030-81688-9_5`](https://doi.org/10.1007/978-3-030-81688-9_5)
+*ATLAS: Automated Amortised Complexity Analysis of Self-Adjusting Data Structures* supervised by [Florian Zuleger](https://github.com/zulegerf), see also [`doi:10.1007/978-3-030-81688-9_5`](https://doi.org/10.1007/978-3-030-81688-9_5) and [`doi:10.1017/S0960129521000232`](https://doi.org/10.1017/S0960129521000232).
 
 | Repository | Content | Collaborators | Language |
 |------------|---------|---------------|----------|
@@ -58,7 +58,7 @@ If you are looking for more material, feel free to hit me up :wink:
 
 ### Seminars and Theses
 
- * Bachelor's Thesis: ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems"](https://github.com/lorenzleutgeb/3wl) [[as PDF](https://lorenz.leutgeb.xyz/paper/3wl.pdf)] supervised by [Antonius Weinzierl](https://github.com/AntoniusW), see also [`doi:10.1007/978-3-030-00801-7_9`](https://doi.org/10.1007/978-3-030-00801-7_9)
+ * Bachelor's Thesis: ["Three Watched Literals: Efficient Propagation for Lazy-Grounding Answer Set Programming Systems"](https://github.com/lorenzleutgeb/3wl) [[as PDF](https://lorenz.leutgeb.xyz/paper/3wl.pdf)] supervised by [Antonius Weinzierl](https://github.com/AntoniusW), see also [`doi:10.1007/978-3-030-00801-7_9`](https://doi.org/10.1007/978-3-030-00801-7_9) and [alpha-asp/Alpha](https://github.com/alpha-asp/Alpha/)
  * Seminar: ["Abduction and Logic Programming"](https://github.com/lorenzleutgeb/abd) [[report](https://lorenz.leutgeb.xyz/paper/abd.pdf), [slides](https://lorenz.leutgeb.xyz/paper/abd-beam.pdf) as PDFs]
 
 ### Courses
