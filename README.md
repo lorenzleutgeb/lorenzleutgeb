@@ -85,7 +85,7 @@ Decisions behind naming repositories might appear obscure to you, as they aim to
 | ------- | ------------- | -------- |
 [Winston Markov](https://github.com/lorenzleutgeb/winston-markov) | A Twitter bot that constructs tweets based on 1984 | [sektor5](http://www.sektor5.at/)
 [Market Apocalypse](https://github.com/lorenzleutgeb/market-apocalypse) | Communication device for a time after the apocalpyse | [Das Packhaus](http://www.daspackhaus.at/)
-[Strong Signal](https://github.com/lorenzleutgeb/strongsignal) | A riddling chatbot that lets you decipher messages from outer space [Impact Hub Vienna](https://vienna.impacthub.net/)
+[Strong Signal](https://github.com/lorenzleutgeb/strongsignal) | A riddling chatbot that lets you decipher messages from outer space | [Impact Hub Vienna](https://vienna.impacthub.net/)
 [Kurier](https://github.com/lorenzleutgeb/kurier) | Customer feedback via Messenger | [Kurier](https://kurier.at/)
 [Hangman](https://github.com/lorenzleutgeb/hangman) | Hangman chatbot | [Stockwerk](https://www.stockwerk.co.at/)
 
