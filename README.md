@@ -8,7 +8,7 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
  | ----------------------------------------------- | ------------------------------------------------------- | ---- | -------- |
  | [geb](https://github.com/lorenzleutgeb/geb)     | Code that connects to [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del%2C_Escher%2C_Bach) | ?    | Python |
  | [euler](https://github.com/lorenzleutgeb/euler) | Attempts at [Project Euler](https://projecteuler.net/)  | ?    | Java |
- | [aoc](https://github.com/lorenzleutgeb/aoc)     | Attempts at [Advent of Code](https://adventofcode.com/) | 2017, 2018, 2019, 2020 | Haskell, ASP, Python |
+ | [aoc](https://github.com/lorenzleutgeb/aoc)     | Attempts at [Advent of Code](https://adventofcode.com/) | 2017 - 2022 | Haskell, ASP, Python |
  | [cqf](https://github.com/lorenzleutgeb/cqf)     | [Conjunctive Query](https://en.wikipedia.org/wiki/Conjunctive_Query) Fun | 2018 | PostgreSQL |
 
 ## [European Master's Program in Computational Logic](https://www.emcl-study.eu/)
