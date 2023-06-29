@@ -1,4 +1,4 @@
-This `README.md` helps you (and me) navigate all my repositories on GitHub.
+This is a variation of a CV, refined with links to code and other output.
 
 ## Puzzling
 
@@ -11,11 +11,25 @@ This `README.md` helps you (and me) navigate all my repositories on GitHub.
  | [aoc](https://github.com/lorenzleutgeb/aoc)     | Attempts at [Advent of Code](https://adventofcode.com/) | 2017 - 2022 | Haskell, ASP, Python |
  | [cqf](https://github.com/lorenzleutgeb/cqf)     | [Conjunctive Query](https://en.wikipedia.org/wiki/Conjunctive_Query) Fun | 2018 | PostgreSQL |
 
+## Doctoral Researcher, "Automation of Logic" Research Group, Max Planck Institute for Informatics
+
+Since 2021-09, ongoing. Affiliations:
+
+ - [Max Planck Institute for Informatics (personal page)](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/lorenz-leutgeb)
+ - [International Max Planck Research School on Trustworthy Computing](https://imprs-trust.mpg.de/)
+ - [Saarbrücken Graduate School of Computer Science](https://graduateschool-computerscience.de)
+
+### Papers
+
+ - [`arxiv:2305.05064`](https://arxiv.org/abs/2305.05064)
+ - [`doi:10.1007/978-3-031-10769-6_10`](https://doi.org/10.1007/978-3-031-10769-6_10)
+ - [`ceur-ws.org/Vol-3201/paper2.pdf`](https://ceur-ws.org/Vol-3201/paper2.pdf)
+
 ## [European Master's Program in Computational Logic](https://www.emcl-study.eu/)
 
 <details><summary>Locations</summary>
 
-| Start   | End     | Institute/Organisation | Associated University | Location 
+| Start   | End     | Institute/Organisation | Associated University | Location
 | ------- | ------- | ---------------------------------------------------------------------------- | -------------------------------- | ------------ |
 | 2017-09 | 2018-02 | International Center for Computational Logic (ICCL)                          | TU Dresden                       | 🇪🇺 🇩🇪 Dresden
 | 2018-03 | 2018-07 | Research Centre for Knowledge and Data (KRDB)                                | Free University of Bozen-Bolzano | 🇪🇺 🇮🇹 Bolzano
@@ -81,7 +95,7 @@ Decisions behind naming repositories might appear obscure to you, as they aim to
 
 ## Lemmings I/O (Winter 2017)
 
-| Hack    | Description   | Location | 
+| Hack    | Description   | Location |
 | ------- | ------------- | -------- |
 [Winston Markov](https://github.com/lorenzleutgeb/winston-markov) | A Twitter bot that constructs tweets based on 1984 | [sektor5](http://www.sektor5.at/)
 [Market Apocalypse](https://github.com/lorenzleutgeb/market-apocalypse) | Communication device for a time after the apocalpyse | [Das Packhaus](http://www.daspackhaus.at/)
